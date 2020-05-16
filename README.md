@@ -1,1 +1,1 @@
-Complete Ruby on Rails tutorial example
+First Test repo for Complete Ruby on Rails tutorial example
